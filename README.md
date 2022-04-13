@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『Devil Bot』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://te.legra.ph/file/e0d01dcc471f7a293f06e.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![Devil Bot](https://te.legra.ph/file/e0d01dcc471f7a293f06e.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ DevilBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/e0d01dcc471f7a293f06e.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -66,7 +66,7 @@
 `git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd DEVILUSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
