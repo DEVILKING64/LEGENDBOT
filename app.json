@@ -1,7 +1,7 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "logo": "https://te.legra.ph/file/e0d01dcc471f7a293f06e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "success_url": "https://t.me/ThE_FrIeNdShIp_ClUb",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@ThE_FrIeNdShIp_ClUb",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@ThE_StAtUs_ViDeO_ClUb",
       "required": false
     },
     "BOY_OR_GIRL": {
